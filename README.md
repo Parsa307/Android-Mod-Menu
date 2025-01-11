@@ -1,16 +1,5 @@
-# Important
-It is with great regret that I have to announce that development work on Mod Menu Template and all pther projects will be permanently stopped. The reason for this is that I'm no longer interested in Android modding scene and due to health and changes in my personal life. And, I have sold my Android phone (now own an iPhone)
-
-I will delete my Telegram account and Github account in 1. november 2024. I will delete everything Android related from my PC forever
-
-Please feel free to fork the project and make improvements, or find other modders who will continue to contribute to this project
-
-The LGL Team Telegram channel will not be deleted since this channel is owned by Spring Musk https://t.me/Layout_musk
-
-Goodbye everyone
-
 # Introduction
-![GitHub](https://img.shields.io/github/license/LGLTeam/Android-Mod-Menu?style=flat-square)
+![GitHub](https://img.shields.io/github/license/Parsa307/Android-Mod-Menu?style=flat-square)
 
 Floating mod menu for il2cpp and other native android games. KittyMemory, MSHook, And64InlineHook and basic string obfuscator (AY obfuscator) included. Assets are stored as base64 in cpp and does not need to be stored under assets folder.
 
